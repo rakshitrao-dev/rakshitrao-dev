@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshitrao-dev&label=Profile%20views&color=00eeff&style=flat" alt="rakshitrao-dev" /> </p>
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/rakshitrao-dev/rakshitrao-dev/output/github-contribution-grid-snake.svg)
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/rakshitrao-dev/rakshitrao-dev/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
